@@ -1,0 +1,72 @@
+{
+  "nome": "Consultório Dra. Victoria Caroline",
+  "slogan": "Sorriso alinhado com seu estilo.",
+  "descricaoCurta": "Consultório odontológico em Taboão da Serra especializado em facetas dentárias e estética do sorriso, com a Dra. Victoria Caroline.",
+  "descricaoLonga": "Aqui o foco é realçar o que você já tem de melhor: seu sorriso! A Dra. Victoria Caroline é especialista em facetas dentárias e traz aquele toque de estética moderna que faz toda a diferença — pra você se sentir confiante, de verdade, em cada selfie, reunião ou rolê. Tecnologia de ponta, atendimento personalizado e um ambiente leve, bonito e instagramável. Nada de clínica com cara de hospital: aqui é conforto, cuidado e resultado. Se você quer aquele sorriso dos sonhos com naturalidade e muito bom gosto, o lugar é aqui. Vem transformar o seu sorriso com quem entende de estética e autoestima!",
+
+  "logo": "assets/images/logo/logo.png",
+  "logoAlt": "assets/images/logo/logo.png",
+  "favicon": "assets/images/favicon/favicon.ico",
+
+  "contato": {
+    "telefone": "+55 (11) 95720-3124",
+    "telefoneLink": "5511957203124",
+    "email": "",
+    "whatsapp": "5511957203124",
+    "whatsappMensagemPadrao": "Olá! Gostaria de agendar uma avaliação com a Dra. Victoria Caroline."
+  },
+
+  "endereco": {
+    "logradouro": "Estr. São Francisco, 2008",
+    "bairro": "Jardim Henriqueta",
+    "cidade": "Taboão da Serra",
+    "estado": "SP",
+    "cep": "06765-465",
+    "pais": "Brasil",
+    "referencia": "Atendimento com hora marcada",
+    "latitude": -23.6202,
+    "longitude": -46.7969,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dra+Victoria+Caroline+Estr.+São+Francisco+2008+Taboão+da+Serra"
+  },
+
+  "horarioFuncionamento": [
+    { "dia": "Segunda-feira", "abertura": "07:30", "fechamento": "19:00", "fechado": false },
+    { "dia": "Terça-feira", "abertura": "07:30", "fechamento": "19:00", "fechado": false },
+    { "dia": "Quarta-feira", "abertura": "07:00", "fechamento": "19:00", "fechado": false },
+    { "dia": "Quinta-feira", "abertura": "07:30", "fechamento": "19:00", "fechado": false },
+    { "dia": "Sexta-feira", "abertura": "07:30", "fechamento": "19:00", "fechado": false },
+    { "dia": "Sábado", "abertura": null, "fechamento": null, "fechado": true },
+    { "dia": "Domingo", "abertura": null, "fechamento": null, "fechado": true }
+  ],
+
+  "redesSociais": {
+    "instagram": "https://www.instagram.com/draviihcaroline/",
+    "facebook": "",
+    "tiktok": "",
+    "youtube": ""
+  },
+
+  "avaliacoes": {
+    "notaMedia": 5.0,
+    "totalAvaliacoes": 3,
+    "googlePlaceId": ""
+  },
+
+  "responsavelTecnico": "Dra. Victoria Caroline — CD, CROSP 128861",
+  "servicosPraticos": ["Aceitamos Pix", "Estacionamento", "Manobrista"],
+
+  "seo": {
+    "tituloPagina": "Dra. Victoria Caroline | Facetas e Estética Dental em Taboão da Serra",
+    "metaDescricao": "Consultório odontológico em Taboão da Serra especializado em facetas dentárias, harmonização facial e estética do sorriso, com a Dra. Victoria Caroline.",
+    "metaKeywords": "victoria caroline dentista, facetas em resina taboao, facetas dentarias, harmonizacao facial taboao, botox taboao, preenchimento labial, jardim henriqueta dentista",
+    "canonical": "https://www.draviihcaroline.com.br/",
+    "ogImage": "assets/images/hero/hero.jpg",
+    "schemaType": "Dentist"
+  },
+
+  "analytics": {
+    "googleAnalyticsId": "",
+    "googleSearchConsole": "",
+    "metaPixelId": ""
+  }
+}

@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dra. Victoria Caroline | Facetas e Estética Dental em Taboão da Serra</title>
+<meta name="description" content="Consultório odontológico em Taboão da Serra especializado em facetas dentárias, harmonização facial e estética do sorriso, com a Dra. Victoria Caroline.">
+
+<!-- PWA / Ícones -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="assets/images/favicon/favicon.ico">
+<link rel="apple-touch-icon" href="assets/images/icons/apple-touch-icon-180x180.png">
+<meta name="theme-color" content="#DD976D">
+
+<!-- Estilos: ordem importa (tokens → base → componentes → responsivo → animações) -->
+<link rel="stylesheet" href="assets/css/variables.css">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/components.css">
+<link rel="stylesheet" href="assets/css/responsive.css">
+<link rel="stylesheet" href="assets/css/animations.css">
+</head>
+<body>
+<header>
+  <div class="container">
+    <nav>
+      <a class="logo" href="#hero"><img src="assets/images/logo/logo.png" alt="Dra. Victoria Caroline" height="52"></a>
+      <ul class="menu">
+        <li><a href="#hero">Início</a></li>
+        <li><a href="#sobre">Sobre</a></li>
+        <li><a href="#cardapio">Tratamentos</a></li>
+        <li><a href="#pacientes">Pacientes</a></li>
+        <li><a href="#galeria">Galeria</a></li>
+        <li><a href="#depoimentos">Avaliações</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+      <a class="btn" href="#" data-whatsapp-msg="Olá! Gostaria de agendar uma avaliação com a Dra. Victoria Caroline.">Agendar Avaliação</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+<section id="hero" class="hero">
+<div class="container hero-grid">
+<div>
+<h1>Sorriso alinhado com <em>seu estilo</em>.</h1>
+<p>Facetas dentárias e estética moderna pra você se sentir confiante em cada selfie, reunião ou rolê. Ambiente leve, bonito e instagramável — nada de clínica com cara de hospital.</p>
+<div class="hero-buttons">
+<a class="btn" href="#cardapio">Ver Tratamentos</a>
+<a class="btn btn-outline" href="#" data-whatsapp-msg="Olá! Gostaria de agendar uma avaliação com a Dra. Victoria Caroline.">Agendar Avaliação</a>
+</div>
+</div>
+<div class="hero-image">
+<img src="assets/images/hero/hero.jpg" alt="Dra. Victoria Caroline">
+</div>
+</div>
+</section>
+
+<section id="sobre"><div class="container"><h2 class="section-title">Sobre o Consultório</h2><p class="section-subtitle">A Dra. Victoria Caroline é especialista em facetas dentárias e traz aquele toque de estética moderna que faz toda a diferença. Tecnologia de ponta, atendimento personalizado e um ambiente leve, bonito e instagramável. Se você quer aquele sorriso dos sonhos com naturalidade e muito bom gosto, o lugar é aqui — vem transformar o seu sorriso com quem entende de estética e autoestima!</p></div></section>
+<section id="destaques"><div class="container"><h2 class="section-title">Tratamentos em Destaque</h2><div class="grid"></div></div></section>
+<section id="cardapio"><div class="container"><h2 class="section-title">Nossos Tratamentos</h2><p class="section-subtitle">Facetas e harmonização facial para realçar o que você já tem de melhor: seu sorriso.</p><div id="menu-content"></div></div></section>
+<section id="pacientes"><div class="container"><h2 class="section-title">Nossos Pacientes</h2><p class="section-subtitle">Sorrisos reais de quem já passou por aqui.</p><div id="pacientes-content"></div></div></section>
+<section id="galeria"><div class="container"><h2 class="section-title">Galeria</h2><div class="grid"></div></div></section>
+<section id="depoimentos"><div class="container"><h2 class="section-title">Avaliações</h2><div class="grid"></div></div></section>
+<section id="faq"><div class="container"><h2 class="section-title">Perguntas Frequentes</h2><div id="faq-list"></div></div></section>
+<section id="contato" class="contact-section">
+
+    <div class="container">
+
+        <div class="section-header">
+
+            <h2 class="section-title">
+                Entre em Contato
+            </h2>
+
+            <p class="section-subtitle">
+                Será um prazer receber você. Agende sua avaliação ou fale conosco através dos canais abaixo.
+            </p>
+
+        </div>
+
+        <div class="contact-layout">
+
+            <!-- ========================= -->
+            <!-- COLUNA ESQUERDA -->
+            <!-- ========================= -->
+
+            <div class="contact-grid">
+
+                <!-- Telefone -->
+
+                <article class="contact-card">
+
+                    <div class="contact-card-icon">
+    <i class="fa-solid fa-phone"></i>
+</div>
+
+                    <div class="contact-card-content">
+
+                        <span class="contact-label">
+                            TELEFONE
+                        </span>
+
+                        <a
+                            id="contact-phone"
+                            class="contact-value"
+                            href="#">
+                            +55 (11) 99999-9999
+                        </a>
+
+                    </div>
+
+                </article>
+
+                <!-- WhatsApp -->
+
+                <article class="contact-card">
+
+                    <div class="contact-card-icon">
+    <i class="fa-brands fa-whatsapp"></i>
+</div>
+
+                    <div class="contact-card-content">
+
+                        <span class="contact-label">
+                            WHATSAPP
+                        </span>
+
+                        <a
+                            id="contact-whatsapp"
+                            class="contact-value"
+                            href="#"
+                            target="_blank"
+                            rel="noopener">
+
+                            Conversar agora
+
+                        </a>
+
+                    </div>
+
+                </article>
+
+                <!-- Endereço -->
+
+                <article class="contact-card">
+
+                    <div class="contact-card-icon">
+    <i class="fa-solid fa-location-dot"></i>
+</div>
+
+                    <div class="contact-card-content">
+
+                        <span class="contact-label">
+                            ENDEREÇO
+                        </span>
+
+                        <p
+                            id="contact-address-line1"
+                            class="contact-value">
+                            Av. das Palmeiras, 1234
+                        </p>
+
+                        <p
+                            id="contact-address-line2"
+                            class="contact-small">
+                            Jardim das Flores
+                        </p>
+
+                        <p
+                            id="contact-address-line3"
+                            class="contact-small">
+                            São Paulo - SP
+                        </p>
+
+                    </div>
+
+                </article>
+
+                <!-- Funcionamento -->
+
+                <article class="contact-card">
+
+                    <div class="contact-card-icon">
+    <i class="fa-regular fa-clock"></i>
+</div>
+
+                    <div class="contact-card-content">
+
+                        <span class="contact-label">
+                            FUNCIONAMENTO
+                        </span>
+
+                        <div
+                            id="business-hours"
+                            class="contact-hours">
+                        </div>
+
+                    </div>
+
+                </article>
+
+            </div>
+
+            <!-- ========================= -->
+            <!-- COLUNA DIREITA -->
+            <!-- ========================= -->
+
+            <div class="contact-map-wrapper">
+
+                <div id="mapa"></div>
+
+                <div class="social-bar">
+
+                    <a
+                        id="instagram-link"
+                        href="#"
+                        target="_blank"
+                        rel="noopener"
+                        aria-label="Instagram">
+
+                        <i class="fa-brands fa-instagram"></i>
+
+                    </a>
+
+                    <a
+                        id="facebook-link"
+                        href="#"
+                        target="_blank"
+                        rel="noopener"
+                        aria-label="Facebook">
+
+                        <i class="fa-brands fa-facebook-f"></i>
+
+                    </a>
+
+                    <a
+                        id="tiktok-link"
+                        href="#"
+                        target="_blank"
+                        rel="noopener"
+                        aria-label="TikTok">
+
+                        <i class="fa-brands fa-tiktok"></i>
+
+                    </a>
+
+                    <a
+                        id="youtube-link"
+                        href="#"
+                        target="_blank"
+                        rel="noopener"
+                        aria-label="YouTube">
+
+                        <i class="fa-brands fa-youtube"></i>
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+</main>
+
+<footer>
+<div class="container">
+<p>&copy; 2026 Dra. Victoria Caroline. Todos os direitos reservados.</p>
+</div>
+</footer>
+
+<!-- Scripts: main.js primeiro (núcleo), demais módulos em seguida -->
+<script src="assets/js/main.js"></script>
+<script src="assets/js/menu.js"></script>
+<script src="assets/js/animations.js"></script>
+<script src="assets/js/gallery.js"></script>
+<script src="assets/js/whatsapp.js"></script>
+<script src="assets/js/content.js"></script>
+<script src="assets/js/pacientes.js"></script>
+<script src="assets/js/map.js"></script>
+<script src="assets/js/contact.js"></script>
+</body>
+</html>

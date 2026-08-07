@@ -1,0 +1,31 @@
+{
+  "depoimentos": [
+    {
+      "id": "dep-01",
+      "nome": "Victor Eduardo",
+      "foto": "",
+      "nota": 5,
+      "texto": "Fiquei apaixonado pelo resultado! O procedimento foi feito com muito cuidado e um olhar estético impecável — o sorriso ficou natural e exatamente como eu sempre sonhei. Atendimento acolhedor, transparente e super seguro do início ao fim.",
+      "data": "2025",
+      "origem": "Google"
+    },
+    {
+      "id": "dep-02",
+      "nome": "Victor Thalles",
+      "foto": "",
+      "nota": 5,
+      "texto": "Uso as lentes da doutora há 5 anos e nunca tive problema, seguindo os cuidados necessários. Recomendo.",
+      "data": "2025",
+      "origem": "Google"
+    },
+    {
+      "id": "dep-03",
+      "nome": "Claudia Naufal",
+      "foto": "",
+      "nota": 5,
+      "texto": "Muito dedicada, trabalho perfeito. Mudou minha autoestima com certeza. Muito prestativa e profissional!",
+      "data": "2025",
+      "origem": "Google"
+    }
+  ]
+}

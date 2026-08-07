@@ -1,0 +1,34 @@
+{
+  "perguntas": [
+    {
+      "id": "faq-01",
+      "pergunta": "Qual a especialidade da Dra. Victoria Caroline?",
+      "resposta": "A Dra. Victoria Caroline é especialista em facetas dentárias e estética do sorriso, trabalhando também com harmonização facial: botox, preenchimento labial e placa de bruxismo."
+    },
+    {
+      "id": "faq-02",
+      "pergunta": "É necessário agendar horário?",
+      "resposta": "Sim, o atendimento é feito exclusivamente com hora marcada."
+    },
+    {
+      "id": "faq-03",
+      "pergunta": "Qual o horário de atendimento?",
+      "resposta": "Atendemos de segunda a sexta-feira, das 7h30 às 19h (quarta-feira a partir das 7h). Aos sábados e domingos não abrimos."
+    },
+    {
+      "id": "faq-04",
+      "pergunta": "Há estacionamento no local?",
+      "resposta": "Sim, contamos com estacionamento e manobrista."
+    },
+    {
+      "id": "faq-05",
+      "pergunta": "Quais formas de pagamento são aceitas?",
+      "resposta": "Aceitamos Pix, além de outras formas de pagamento combinadas na avaliação."
+    },
+    {
+      "id": "faq-06",
+      "pergunta": "Como agendar uma avaliação?",
+      "resposta": "Você pode agendar diretamente pelo WhatsApp, clicando no botão de agendamento no site, ou pelo Instagram @draviihcaroline."
+    }
+  ]
+}

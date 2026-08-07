@@ -1,0 +1,56 @@
+{
+  "categorias": [
+    {
+      "id": "estetica-dental",
+      "nome": "Estética Dental",
+      "itens": [
+        {
+          "id": "ed-01",
+          "nome": "Facetas em Resina",
+          "descricao": "A especialidade da Dra. Victoria Caroline: facetas dentárias com estética moderna e resultado natural, para um sorriso alinhado com o seu estilo.",
+          "imagem": "assets/images/servicos/facetas.jpg",
+          "tags": ["especialidade da casa"],
+          "destaque": true
+        },
+        {
+          "id": "ed-02",
+          "nome": "Facetas Dentárias",
+          "descricao": "Transformação do sorriso com naturalidade e muito bom gosto, sempre com um olhar estético apurado.",
+          "imagem": "assets/images/servicos/facetas-2.jpg",
+          "tags": ["estética"],
+          "destaque": true
+        }
+      ]
+    },
+    {
+      "id": "harmonizacao-facial",
+      "nome": "Harmonização Facial",
+      "itens": [
+        {
+          "id": "hf-01",
+          "nome": "Botox",
+          "descricao": "Aplicação de toxina botulínica para suavizar linhas de expressão com resultado natural.",
+          "imagem": "assets/images/servicos/botox.jpg",
+          "tags": ["harmonização"],
+          "destaque": true
+        },
+        {
+          "id": "hf-02",
+          "nome": "Preenchimento Labial",
+          "descricao": "Harmonização dos lábios com técnica e bom gosto, valorizando a beleza natural do seu sorriso.",
+          "imagem": "assets/images/servicos/preenchimento-labial.jpg",
+          "tags": ["harmonização"],
+          "destaque": true
+        },
+        {
+          "id": "hf-03",
+          "nome": "Placa de Bruxismo",
+          "descricao": "Placa miorrelaxante feita sob medida, para proteger os dentes do desgaste do bruxismo.",
+          "imagem": "assets/images/servicos/placa-bruxismo.jpg",
+          "tags": ["prevenção"],
+          "destaque": false
+        }
+      ]
+    }
+  ]
+}
